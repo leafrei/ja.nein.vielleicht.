@@ -2,8 +2,8 @@
 <head>
 	<meta charset="UTF-8">
 	<!-- Primary Meta Tags -->
-<title>Ja. Nein. Vielleicht.</title>
-<meta name="title" content="Ja. Nein. Vielleicht.">
+<title>Ja.Nein.Vielleicht.</title>
+<meta name="title" content="Ja.Nein.Vielleicht.">
 <meta name="description" content="Comic von Lea Frei">
 
 	body{
